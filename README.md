@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Matteo
 
-<!--
-**TheRealLordy/TheRealLordy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast with a passion for coding and solving complex challenges in cybersecurity. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Honeypot SIEM Project](https://github.com/yourusername/honeypot-siem-project)
+A honeypot setup using Azure and Microsoft Sentinel to monitor and visualize cyber-attacks.
+
+- **Key Features**:
+  - Captures and visualizes failed login attempts (Event ID 4625).
+  - Uses PowerShell scripts for log extraction.
+  - Displays attack origins on a geolocation map in Sentinel.
