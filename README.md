@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Matteo
 
-I'm a cybersecurity enthusiast with a passion for coding and solving complex challenges in cybersecurity. Welcome to my GitHub profile! 🚀
+I'm a cybersecurity enthusiast with a passion for coding and solving challenges in cybersecurity. Welcome to my GitHub profile! 🚀
 
 ## 🌟 Featured Projects
 
