@@ -4,7 +4,7 @@ I'm a cybersecurity enthusiast with a passion for coding and solving challenges 
 
 ## 🌟 Featured Projects
 
-### 1. [Honeypot SIEM Project](https://github.com/yourusername/honeypot-siem-project)
+### 1. [Honeypot SIEM Project](https://github.com/TheRealLordy/Honeypot-SIEM)
 A honeypot setup using Azure and Microsoft Sentinel to monitor and visualize cyber-attacks.
 
 - **Key Features**:
