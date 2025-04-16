@@ -21,3 +21,6 @@ A lab simulating an Active Directory (AD) environment with a Domain Controller, 
   - Implemented a Domain Controller (DC) with a custom domain name.
   - Set up RAS (Remote Access Services) and NAT (Network Address Translation) for private network internet access.
   - Configured a DHCP server to assign IP addresses dynamically to devices in the private network.
+
+
+####  [Coding Projects](https://github.com/TheRealLordy/Coding)
