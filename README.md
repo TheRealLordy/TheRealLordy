@@ -23,7 +23,7 @@ A lab simulating an Active Directory (AD) environment with a Domain Controller, 
   - Configured a DHCP server to assign IP addresses dynamically to devices in the private network.
 
 ## 👾 Coding Projects
-### 1. [🔐 File Integrity Monitoring (FIM) System]((https://github.com/TheRealLordy/Coding)
+### 1. [🔐 File Integrity Monitoring (FIM) System](https://github.com/TheRealLordy/Coding)
 A Python-based File Integrity Monitoring tool with a graphical dashboard that detects unauthorized file changes using SHA-256 hashing and real-time filesystem monitoring.
 
 - **Key Features**:
