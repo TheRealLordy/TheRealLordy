@@ -24,3 +24,19 @@ A lab simulating an Active Directory (AD) environment with a Domain Controller, 
 
 
 ### 👾- [Coding Projects](https://github.com/TheRealLordy/Coding)
+
+🔐 File Integrity Monitoring (FIM) System
+
+A Python-based File Integrity Monitoring tool with a graphical dashboard that detects unauthorized file changes using SHA-256 hashing and real-time filesystem monitoring.
+
+Key Features
+
+Detects file creation, modification, deletion, and renaming
+
+Uses SHA-256 hashing to verify file integrity
+
+Real-time monitoring using the Watchdog library
+
+Interactive GUI dashboard built with Tkinter
+
+Persistent alert logging and baseline storage
