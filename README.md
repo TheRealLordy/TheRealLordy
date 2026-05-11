@@ -33,7 +33,7 @@ A Python-based File Integrity Monitoring tool with a graphical dashboard that de
   - Interactive GUI dashboard built with Tkinter
   - Persistent alert logging and baseline storage
  
-### 2. [ Vulenrability Scanner](https://github.com/TheRealLordy/Coding)
+### 2. [ Vulenrability Scanner]([https://github.com/TheRealLordy/Coding](https://github.com/TheRealLordy/Vulnerability-Scanner.git))
 A Python-based local network vulnerability scanner with host discovery, security scanning modules, and CVE correlation against NVD/OSV databases.
 
 - **Key Features**:
