@@ -23,7 +23,7 @@ A lab simulating an Active Directory (AD) environment with a Domain Controller, 
   - Configured a DHCP server to assign IP addresses dynamically to devices in the private network.
 
 ## 👾 Coding Projects
-### 1. [🔐 File Integrity Monitoring (FIM) System](https://github.com/TheRealLordy/Coding)
+### 1. [ File Integrity Monitoring (FIM) System](https://github.com/TheRealLordy/Coding)
 A Python-based File Integrity Monitoring tool with a graphical dashboard that detects unauthorized file changes using SHA-256 hashing and real-time filesystem monitoring.
 
 - **Key Features**:
@@ -32,3 +32,16 @@ A Python-based File Integrity Monitoring tool with a graphical dashboard that de
   - Real-time monitoring using the Watchdog library
   - Interactive GUI dashboard built with Tkinter
   - Persistent alert logging and baseline storage
+ 
+### 2. [ Vulenrability Scanner](https://github.com/TheRealLordy/Coding)
+A Python-based local network vulnerability scanner with host discovery, security scanning modules, and CVE correlation against NVD/OSV databases.
+
+- **Key Features**:
+  - Host discovery via ARP, ICMP, TCP probes, and mDNS
+  - Port scanning, service detection, and OS fingerprinting
+  - SSL/TLS, SSH, SMB, and SNMP auditing
+  - CVE lookup against NVD and OSV vulnerability databases
+  - Three operation modes: Web UI (Flask), REST API (FastAPI), CLI
+  - Configurable scan presets and policy-based exclusions
+
+
